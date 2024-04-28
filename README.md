@@ -1,7 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah Mouawad
 ========================================================================================================================================
 
-I'm a Software Engineer, who has experience in Cross-platform Development (Flutter), and the fields of Web Development. - Cross-platform : build and maintain High-performance Mobile App with Flutter Framework, - Back-End: Experience in creating RESTful APIs using PHP (Laravel ) and building Back-End services in Firebase, - Front-End: Design using HTML, CSS, JavaScript,Bootstrap, JQuery, Ajax . - Database: Experience in Database Design and working with SQL databases.
+I'm a Software Engineer, who has experience in Cross-platform Development (Flutter), and the fields of Web Development. 
+- Cross-platform : build and maintain High-performance Mobile App with Flutter Framework,
+- Back-End: Experience in creating RESTful APIs using PHP (Laravel ) and building Back-End services in Firebase,
+- Front-End: Design using HTML, CSS, JavaScript,Bootstrap, JQuery, Ajax .
+- Database: Experience in Database Design and working with SQL databases.
 
 * 🌍  I'm based in Egypt
 * 🧠  I'm learning Software Architecture
